@@ -34,7 +34,7 @@ input,#submit{
   border-left-style:none;
   border-radius: 12px;
   padding:12px;
-  border-right-style:none;
+  border-right-style:none;}
 
 li,#p,a,ul {color:rgb(63, 73, 8);
     text-decoration: none;
