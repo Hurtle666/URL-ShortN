@@ -38,7 +38,7 @@ input,#submit{
 }
 footer{
          min-height: 100px;
-    min-width:84.3rem;
+    width:84.3rem;
     background-color: rgb(248, 121, 17);
     position:fixed;
 margin-top:0px;
@@ -63,7 +63,6 @@ margin-top:23px;
 {/*******************design for phone**************/
 
 
-
     footer{
         min-height: 100px;
    min-width:84.3rem;
@@ -81,30 +80,3 @@ align-self: center;
     padding:1px;
     }
 }
-
-@media screen and (min-width:1024px){
-    /*destop screen*/
-    
-    footer{
-        min-height: 100px;
-   min-width:84.3rem;
-   background-color: rgb(223, 116, 28);
-   position:fixed;
- 
-margin-top:0px;
-bottom:-2px;
-}
-
-p{color:rgb(33, 201, 27);
-
-    justify-content: center;
-    margin:0px auto;
-    text-align: center;
-    text-align: center;
-    margin-top:30px;
-    padding:1px;
-    }
-}
-
-
- 
